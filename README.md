@@ -11,5 +11,5 @@ The following classification models were trained and the performance analysed.
 * Logistic Regression
 * Neural Networks
 
-The models were compared and the important features of each model were compared.
+The models were compared and the important features of each model were studied.
  
